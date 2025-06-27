@@ -1,9 +1,25 @@
 package org.example;
+import org.junit.Test;
+import static org.junit.Assert.*;
 
-import junit.framework.Test;
-import junit.framework.TestCase;
-import junit.framework.TestSuite;
+public class CalculatorTest {
+    @Test
+    public void testAdd() {
+        Calculator calc = new Calculator();
+        assertEquals(5, calc.add(2, 3));
+    }
 
-public class AppTest{
+    @Test
+    public void testMultiply() {
+        Calculator calc = new Calculator();
+        assertEquals(12, calc.multiply(4, 3));
+    }
+
+    @Test
+    public void testIsPositive() {
+        Calculator calc = new Calculator();
+        assertTrue(calc.isPositive(10));
+        assertFalse(calc.isPositive(-2));
+    }
 
 }
