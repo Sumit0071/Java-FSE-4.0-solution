@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33ab090d-5261-4eec-ae7c-3696ca7b9cf8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MockitoExample/Exercise 1/src/main/java/org/example/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MockitoExample/Exercise 1/src/test/java/org/example/MyServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MockitoExample/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MockitoExample/Exercise 1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MockitoExample/src/main/java/org/example/MyService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MockitoExample/src/test/java/org/example/MyServiceTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2z2rgBOhWWp7VFsWDc5mrlBXD8z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/SUMIT ADHIKARI/Desktop/Java-FSE-4.0-solution/week 2/Unit Test/MockitoExample"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SUMIT ADHIKARI\Desktop\Java-FSE-4.0-solution\week 2\Unit Test\MockitoExample\Exercise 1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Unit Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Unit Test" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33ab090d-5261-4eec-ae7c-3696ca7b9cf8" name="Changes" comment="" />
+      <created>1750940117955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750940117955</updated>
+    </task>
+    <servers />
+  </component>
+</project>
